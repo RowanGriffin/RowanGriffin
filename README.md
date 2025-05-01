@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RowanGriffin
 - I’m interested in Software Development and CyberSecurity.
-- I’m currently studying to obtain my BS in Cybersecuirty and have an AS in Liberal Arts: Math and Science
+- I’m currently studying to obtain my BS in Cybersecuirty and have earned: an AS in Liberal Arts: Math & Science and Software Development diploma.
 - I’m looking to collaborate on front-end and back-end projects for non-profits and secure, mobile applications.
 - How to reach me: through GitHub.
 
