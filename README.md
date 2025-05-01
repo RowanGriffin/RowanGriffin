@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RowanGriffin
-- I’m interested in learning about Environmental, computer, and biological sciences, parenting, global issues and how we can solve them.
-- I’m currently learning software development.
-- I’m looking to collaborate on front-end and back-end projects of any kind.
+- I’m interested in Software Development and CyberSecurity.
+- I’m currently studying to obtain my BS in Cybersecuirty and have an AS in Liberal Arts: Math and Science
+- I’m looking to collaborate on front-end and back-end projects for non-profits and secure, mobile applications.
 - How to reach me: through GitHub.
 
 <!---
